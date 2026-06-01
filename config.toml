@@ -1,0 +1,6 @@
+[config]
+  [[config.fields]]
+  name = "firecrawl_api_key"
+  type = "string"
+  required = true
+  description = "Firecrawl API key for scraping capeet.com gig listings"
